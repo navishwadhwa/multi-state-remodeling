@@ -1,0 +1,7 @@
+-- make_step_fitted_function downloads the experimental time trace and saves the files with their step fitting function. 
+-- get_experimental_variables create the experimental values of interest such as f_+ and the main dwell times 
+-- simpler_model creates the traces from simulations of the simplified model of binding and unbinding
+-- dwell_times_statistics returns the experimental values of the dwell times distribution 
+-- dwell_times_distribution_plot makes a distribution from the values of the simplified model as well and plot the distribution together with the one from experiments
+-- fitting_via_partitioning contains the functions of our step fitting algorithm 
+-- optimization_algorithm is used for the gradient descent fitting algorithm
